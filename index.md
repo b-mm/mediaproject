@@ -9,12 +9,13 @@ Effective leadership is arguably more critical now than ever previously before; 
 
 ## What Is Transformational Leadership?
 First introduced by James Victor Downton in 1973 and later developed by James MacGregor Burns in 1978 and Bernard Morris Bass in the 1980s, Transformative leadership is a style of guidance and supportive direction focused on inspiring and motivating groups and individuals to achieve extraordinary outcomes and conceptually designed to support those to reach their full potential. 
+
 - Inspires employees to exceed expectations.
 - Encourages innovation and fosters creativity.
 - Builds strong relationships based on trust and respect.
 - Aligns individual goals with organizational vision.
 - Shared vision and growth mindset.
- 
+
 Unlike transactional leadership, which relies on rewards and punishments, transformational leaders focus on personal growth, motivation, and shared purpose.
 
 ## The Four Key Components of Transformational Leadership
@@ -26,14 +27,16 @@ Image 1. Source (Transformational Leadership Theory - Meaning, Criticisms and It
 1.	Inspirational Motivation (Creating a Shared Vision)
 Leaders that articulate a compelling vision or set of ambitions that excite and unite their teams. Great leaders might use storytelling, employ techniques that encourage and simplify clear communication, promote enthusiasm, and keep employees engaged. 
 `For example, though currently controversial, Elon Musk’s vision for SpaceX - "Making humanity multiplanetary” - inspires engineers to push boundaries and strive for success in the aerospace industry (SpaceX, 2025).`
-2.	Intellectual Stimulation (Encouraging Innovation)
+
+3.	Intellectual Stimulation (Encouraging Innovation)
 Transformational leaders constantly challenge the status quo through responsible means and encourage creative problem-solving. Thinking outside the box, diverse approaches to solving problems, and appreciating trial and error. Leaders that practice this foster an environment where employees feel safe to question, experiment, and take risks.
-`For example, Google’s 20% time policy allows employees to work on passion projects, leading to innovations. This model is how Gmail was created.
-3.	Idealized Influence (Leading by Example)
+`For example, Google’s 20% time policy allows employees to work on passion projects, leading to innovations. This model is how Gmail was created.`
+
+4.	Idealized Influence (Leading by Example)
 Transformational leaders are the roles models and must act in such a way that demonstrates integrity, confidence, and ethical behavior. Employees respect and emulate them because they walk the talk.
 `For example, a chief executive officer (CEO) who takes a pay cut during a time of financial hardships at a company to avoid layoffs. This action has been proven throughout history to create a strong sense of reliability, companionship, and loyalty among employees. This exact case occurred when Nintendo’s former CEO took a 50% pay cut to avoid downsizings (Hahn, 2025).`
 
-4.	Individualized Consideration (Personalized Support)
+5.	Individualized Consideration (Personalized Support)
 These leaders mentor employees, recognize their unique strengths, and provide tailored development opportunities. Individualized consideration involves listening actively, attentively, and offering constructive feedback.
 `For example, a manager who adjusts leadership style based on each team member’s needs, abilities (strengths and weaknesses), and concerns - coaching some while giving autonomy to others.`
 
