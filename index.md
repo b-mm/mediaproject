@@ -62,8 +62,8 @@ Praise efforts publicly and privately. Link achievements to opportunities for ca
 Transformative leadership isn’t about authority or control (Bass & Riggio, 2006). Transformative leadership is about influence, inspiration, and impact. By focusing on people rather than just processes, leaders can cultivate high-performing, resilient teams that thrive even in uncertainty.
 Are you ready to transform your leadership style? Start by listening more, empowering others, and leading with purpose.
 
- 
-References
+## References
+
 Bass, B. M., & Riggio, R. E. (2006, October). Transformational leadership: Second Edition. ResearchGate. https://www.researchgate.net/publication/287282133_Transformational_leadership_Second_edition.
 Buzzanell, P. M. (2018). Organizing resilience as adaptive-transformational tensions. Journal of Applied Communication Research, 46(1), 14–18. https://doi.org/10.1080/00909882.2018.1426711.
 Hahn, B. (2025, January 17). Linkedin.com. https://www.linkedin.com/posts/brianyhahn_nintendos-former-ceo-took-a-50-pay-cut-activity-7286104588896677888-Gz5P/.
