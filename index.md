@@ -22,6 +22,7 @@ Unlike transactional leadership, which relies on rewards and punishments, transf
 Bass identified four key areas of transformational leadership that have know been organized into the Four I’s, or four pillars.
  
 ![TL](https://github.com/user-attachments/assets/a346e886-6db7-4748-9460-88c0b0fa93ae)
+
 Image 1. Source (Transformational Leadership Theory - Meaning, Criticisms and Its Implications - Management Study Guide, 2025).
 
 1.	Inspirational Motivation (Creating a Shared Vision)
